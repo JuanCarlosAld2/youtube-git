@@ -48,8 +48,14 @@ FLUJO BASICO DE GIT
     revisar carpeta img flujo git.jpg
 
     git commit => modificas el archivo "COMMIT_EDITMSG" en vsc 
-    
 
+    git branch => muestra las ramas existentes
+
+    git branch un-nombre => crear una rama 
+    
+    git checkout nombre-de-la-rama => cambiar de rama
+
+    git checkout -b nombre-de-la rama => crear y cambiar de rama
 
 
 
