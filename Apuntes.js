@@ -57,6 +57,13 @@ FLUJO BASICO DE GIT
 
     git checkout -b nombre-de-la rama => crear y cambiar de rama
 
+    git branch -d nombre-de-la-rama => borrar la rama
+
+    cunado esta strabjanaod en otra roma y no estra creada para poder pusharlo 
+
+        git push --set-upstream origin html  
+                        o
+             git push -u origin html  //mejor opcion 
 
 
 
