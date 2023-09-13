@@ -101,15 +101,22 @@ FLUJO BASICO DE GIT
         git log => "historial de los commits"
         git log --oneline "historila de commits pero en una sola linea"
 
-<<<<<<< HEAD
+
 
         COMITEAR EN UN MISMO COMMIT 
 
             git commit --amend --no-edit  => "no crea un nuevo commit "
-=======
-        git commit --amend --no-edit  => "no crea un uevo commit "
->>>>>>> ea46384f95a6e90a5de680f3e1f9e0dc640c9919
 
+    UTILIZAR COMANDO SOLO CUNDO LOS CAMBIOS ESTEN EN EL LOCAL (COMPU) Y NO EN EL REMOTO (GITHUB)
+            -# sin editar el mensaje del último commit
+                git commit --amend --no-edit
+
+            # editando el mensaje del último commit
+                git commit --amend -m "nuevo mensaje para el último commit"
+
+    SI TE EQUIVOCAS O NO TE GUSTA EL ULTIMO COMMIT QUE HICISTE Y QUIERES REGRESAR UNO ANTERIOR 
+            # eliminar el último commit
+            git reset --hard HEAD~1
 
 
 */
