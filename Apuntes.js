@@ -49,6 +49,8 @@ FLUJO BASICO DE GIT
 
     git commit => modificas el archivo "COMMIT_EDITMSG" en vsc 
 
+    CREAR RAMAS
+
     git branch => muestra las ramas existentes
 
     git branch un-nombre => crear una rama 
@@ -57,7 +59,44 @@ FLUJO BASICO DE GIT
 
     git checkout -b nombre-de-la rama => crear y cambiar de rama
 
+    git branch -d nombre-de-la-rama => borrar la rama
 
+    cunado esta strabjanaod en otra roma y no estra creada para poder pusharlo 
+
+        git push --set-upstream origin html  
+                        o
+            git push -u origin html =>  //mejor opcion 
+              |
+              |-->//siempre usar este comnado cuando no se este trabajando en la rama main 
+
+
+    FUSION DE RAMAS 
+
+        -Hay que posicionarnos en la rama principal siempre que vallamso a realizar esta accion 
+
+        existen 2 resultados a la hora de fusionar 
+            -Fast-Foward: La fusion se hace automaticamnete, no hay conflictos por resolver.
+            -Manual Merge: La fusion hay que hacerla manual, para resolver conflictos de duplicacion de contenido.
+
+
+        marge => comando para fusionar rama secundaria
+
+            sin conflictos es una FAST-FOWART 
+
+                -git merge nombre-rama-secundaria
+
+
+
+
+        git branch -d nombre-de-la-rama => borrar la rama local
+        git push origin --delete css ==> borra la rama en el local  y tambien del remoto ( GitHub )
+
+
+        ***no es necesario tener todas las ramas en el  remoto 
+
+
+        MANUAL MERGE
+        
 
 
 
