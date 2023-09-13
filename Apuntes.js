@@ -98,6 +98,13 @@ FLUJO BASICO DE GIT
 
         MANUAL MERGE
         
+        git log => "historial de los commits"
+        git log --oneline "historila de commits pero en una sola linea"
+
+
+        COMITEAR EN UN MISMO COMMIT 
+
+            git commit --amend --no-edit  => "no crea un nuevo commit "
 
 
 
