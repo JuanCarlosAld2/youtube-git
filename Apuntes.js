@@ -146,6 +146,7 @@ FLUJO BASICO DE GIT
     con el comando 
         - git reset --mixed
 
+<<<<<<< HEAD
 PUEDES borrar el ultimo arhivo qeu hayas agregado con git add .
 
     git reset --hard
@@ -159,6 +160,8 @@ PUEDES borrar el ultimo arhivo qeu hayas agregado con git add .
 
 
 
+=======
+>>>>>>> ec7b9399bc6358f6ea5b069695d43fe78e1ad813
 
 
 
