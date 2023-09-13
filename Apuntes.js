@@ -119,6 +119,51 @@ FLUJO BASICO DE GIT
             git reset --hard HEAD~1
 
 
+
+    -Para viajar en el tiempo se utiliza el sigueinte comando  o "viajar entre commits"
+     git checkout id-del-commit ejemplo:
+
+        git checkout b46475c
+
+    
+    GERERAR UN RESPALDO  DEL HISTORIAL 
+        generar un archivo .txt con el historial
+
+        comando
+            -git log > commits.txt
+        RESPALDO CON GRAFICOS
+            - git log --oneline --graph --all > graph.txt
+                                              |-->despues del simbolo nombre del documento
+    VISUALIZAR HISTORIAL CON GRAFICA 
+     -$ git log --oneline --graph --all
+
+    ***MAS INOFMRACION DEL HOSTIAL BUSCAR DOCUMENTACION DE git log
+
+
+    RESETEAR EL HISTORIAL 
+
+    cuando has ejecutado el comando git add .  pero no quieres commitearlo por alguna razon los puedes sacar del staged
+    con el comando 
+        - git reset --mixed
+
+PUEDES borrar el ultimo arhivo qeu hayas agregado con git add .
+
+    git reset --hard
+
+    resetear a un commit que queramos o nos funcione ya no se pueden recupar commits posteriores al que escogimos 
+
+        git reset id-commit
+        git reset --hard id-commit
+
+*-*-* SE PUEDE RESETEAR UN REPOSITORIO DE GITHUB VER COMANDOS JON MIRCHA 
+
+
+
+
+
+
+
+
 */
 
 
