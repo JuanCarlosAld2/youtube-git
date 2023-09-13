@@ -1,0 +1,161 @@
+commit a51807407efdf65348d1c0fc4dfcd83240b34c77
+Merge: 194f2df b2df511
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Wed Sep 13 11:50:34 2023 -0600
+
+    modificacion en apuntes
+
+commit 194f2df81edef2c5d69b1954b5d8e5b1da5e21f3
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 21:31:16 2023 -0600
+
+    Agregando 2 parrafos
+
+commit b2df511282b806c110d8264857630729a903dd7f
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 21:31:16 2023 -0600
+
+    Agregando 2 parrafos
+
+commit 8ab49fc5dc5c363bd12e018a8416083a00c76c7c
+Merge: bf21799 ea46384
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 21:27:52 2023 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit bf21799622a09facab6aae4e840b8d57edfd4c88
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 19:24:39 2023 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit ea46384f95a6e90a5de680f3e1f9e0dc640c9919
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 19:24:39 2023 -0600
+
+    Agregando las estaciones del año
+
+commit d09f1664e139a53c3b91d7a675809c511b9f1bea
+Merge: 831594c 84df66b
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 19:17:13 2023 -0600
+
+    Merge branch 'html'
+
+commit 84df66b6c75c4b02165917cda8800b97d4a4cb0f
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 19:16:44 2023 -0600
+
+    segunda prueba html
+
+commit 831594cd3f5d8dcdb5d156fbfbfb870d276c5e69
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 19:14:33 2023 -0600
+
+    segunda prueba main
+
+commit 8b2138c5a4119431c9cf5e986fcdbfcdfcbd6941
+Merge: 0f6b369 3c98091
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 19:10:24 2023 -0600
+
+    Combinacion exitosa
+
+commit 3c980917f024cf7fa1b9a49bf7c497f271a1e784
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 18:59:51 2023 -0600
+
+    My prueba 1
+
+commit 0f6b3696c3b45ca4e653bbd58705e2de3a5541fa
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 18:57:10 2023 -0600
+
+    implementacion desde main
+
+commit 22b6433ac0ef3bff16a7f9eff183aa77aad05de0
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 18:47:56 2023 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 1fbef9ab97bd879719d5d27e47837ad9fac0a54a
+Merge: 6e05c4d 9299e89
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 18:44:08 2023 -0600
+
+    Merge branch 'html'
+
+commit 9299e89698ffd7a4425ab0bc4e6265446192fa82
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 18:23:47 2023 -0600
+
+    Agregando index.js al index.html
+
+commit 6e05c4deb1487f79d57433b35892b6ab3e4ec422
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 18:19:41 2023 -0600
+
+    Agregando style.css al index.html
+
+commit 618907ccfe8e1b46f6a5a5764b1e1a1b32bace1f
+Merge: 4d25776 c39ffac
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 18:03:51 2023 -0600
+
+    Merge branch 'js'
+
+commit c39ffacefa0a04f098838212f7e91de45c1f214b
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 14:43:32 2023 -0600
+
+    Creando index.js
+
+commit 4d257766e3a4eedecb6e1750d5b8866b5373bed1
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 14:36:29 2023 -0600
+
+    Creando style.css
+
+commit de748a5e621179176bfa4c2337a4e51950ab6a4f
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 14:24:57 2023 -0600
+
+    Creando index.html
+
+commit cdb7f60aba6faa33223f80a5a7ba6635e5db4766
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 13:54:38 2023 -0600
+
+    Ignorando archivos .exe
+
+commit b46475c5376b49fc87112b7188d50c0b0c01ccc6
+Author: JuanCarlosAld2 <111910306+JuanCarlosAld2@users.noreply.github.com>
+Date:   Tue Sep 12 12:10:15 2023 -0600
+
+    Creando licencia del repositorio
+
+commit 5c6382ca813766d107d6a4318961b8f49109d9a1
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 11:54:42 2023 -0600
+
+    Agregando mas contenido al README
+
+commit 519f150802058e51e1e50b8db9e44701110c1a5a
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 11:07:49 2023 -0600
+
+    agregando conetenido inicial al README
+
+commit 4bed3177e88057439b920a994010aaccaca2bda2
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 10:59:30 2023 -0600
+
+    first commit
+
+commit da0a182347e8a0f7e5a15068b4d405dfbeb17169
+Author: Juan Carlos <jcaldama94@gmail.com>
+Date:   Tue Sep 12 10:45:42 2023 -0600
+
+    Primercommit👌
